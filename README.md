@@ -86,18 +86,6 @@ Grade: **7.0 / 10**
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshsury1shi\&show_icons=true\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsury1shi\&layout=compact\&hide_border=true)
-
-</div>
-
----
-
 # 📫 Connect With Me
 
 <div align="center">
