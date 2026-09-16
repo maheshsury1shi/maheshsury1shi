@@ -1,18 +1,264 @@
-# @maheshsuryawanshi
-🔭 I’m currently working on Cloud Computing & DevOps projects and AWS-based deployments<br><br>👯 I’m looking to collaborate on Cloud, DevOps, Linux Administration and Open Source projects<br><br>🤝 I’m looking for help with advanced AWS services, Kubernetes and Infrastructure Automation<br><br>🌱 I’m currently learning AWS Cloud, Linux Administration, Docker, Kubernetes, Terraform and CI/CD<br><br>💬 Ask me about AWS, Linux Administration, Docker, Kubernetes, Python, Git/GitHub and Full-Stack Development<br><br>⚡ Fun fact: I enjoy transforming applications from local environments into scalable cloud deployments using AWS and DevOps tools
+# 👋 Hi, I'm Mahesh Suryawanshi
 
+### DevOps Engineer | AWS Cloud Engineer | Linux System Administrator
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahesh.sury1shi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maheshsury1shi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheshsury1shi@gmail.com) 
+Computer Engineering graduate focused on **Cloud, DevOps, Linux System Administration, and infrastructure automation**. I build hands-on projects involving AWS, CI/CD, containerization, monitoring, and cloud deployment.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=maheshsury1shi&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=maheshsury1shi&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=maheshsury1shi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📍 Pune, Maharashtra, India
 
 ---
-[![](https://komarev.com/ghpvc/?username=maheshsury1shi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Currently
+
+* ☁️ Building hands-on projects with **AWS Cloud and DevOps technologies**
+* 🐧 Strengthening **Linux administration, networking, and scripting** skills
+* ⚙️ Working with **CI/CD, Docker, Kubernetes, and Infrastructure as Code**
+* 📚 Preparing for **AWS Certified Solutions Architect – Associate**
+* 🚀 Looking for opportunities in **Cloud Engineering, DevOps, AWS, and Linux Administration**
+
+---
+
+## ☁️ Cloud & DevOps
+
+### AWS Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge\&logo=amazonec2\&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge\&logo=amazoneks\&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+
+### DevOps & CI/CD
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
+
+### Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
+
+### Infrastructure as Code
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+
+### Linux, Monitoring & Networking
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 🛠️ Technical Skills
+
+| Category                       | Technologies                                                                                             |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| ☁️ **Cloud**                   | AWS EC2, S3, IAM, VPC, RDS, EKS, ECR, SNS, CloudFront, Lambda, Route 53, ASG, ALB                        |
+| ⚙️ **DevOps & CI/CD**          | Jenkins, Ansible, GitHub Actions, GitLab CI/CD, CI/CD Pipelines, Build Automation, Deployment Automation |
+| 🐳 **Containers**              | Docker, Docker Compose, Kubernetes, Helm                                                                 |
+| 🏗️ **Infrastructure as Code** | Terraform, AWS CloudFormation                                                                            |
+| 📊 **Monitoring**              | Amazon CloudWatch, Prometheus, Grafana                                                                   |
+| 🐧 **Linux & Scripting**       | Linux, Bash, Python, YAML, SSH, User/Group Management, File System Permissions, Processes                |
+| 🌐 **Networking**              | TCP/IP, DNS, HTTP/HTTPS, VPC Networking                                                                  |
+| 🔧 **Version Control**         | Git, GitHub                                                                                              |
+
+---
+
+# 🚀 Featured Projects
+
+## 1. Smart Elect — Voting Platform with Face Authentication & AWS Deployment
+
+A secure voting platform developed as a final-year project with authentication, role-based access control, REST APIs, and AWS deployment.
+
+**Tech Stack**
+
+`React.js` · `Node.js` · `Express.js` · `MongoDB` · `JWT` · `AWS EC2` · `S3` · `CloudFront` · `IAM` · `Linux`
+
+**Key Highlights**
+
+* Built a secure voting platform tested with **200+ simulated users**
+* Implemented **JWT-based token verification** to prevent unauthorized voting
+* Developed **8 REST APIs** with real-time validation and average response time under 200ms
+* Designed MongoDB schemas with role-based access for **Voter, Admin, and Super Admin**
+* Deployed the application on **AWS EC2 with Amazon Linux**
+* Configured EC2 security groups, key pairs, and instance lifecycle
+* Hosted static frontend assets on **Amazon S3 with CloudFront CDN**
+* Configured **IAM roles and policies** following least-privilege principles
+
+**Repository:** `ADD_PROJECT_REPOSITORY_URL`
+
+---
+
+## 2. AWS Monitoring & Alerting Architecture
+
+An end-to-end infrastructure monitoring and alerting architecture for collecting system metrics and detecting infrastructure performance issues.
+
+**Tech Stack**
+
+`AWS EC2` · `Node Exporter` · `Prometheus` · `Grafana` · `CloudWatch` · `SNS` · `Linux`
+
+**Key Highlights**
+
+* Built an infrastructure monitoring pipeline from **EC2 → Node Exporter → Prometheus → Grafana**
+* Collected real-time **CPU, memory, and disk metrics**
+* Created Grafana dashboards for infrastructure observability
+* Configured threshold-based monitoring for performance anomalies
+* Implemented **CloudWatch → Alarm → SNS → Email** alerting
+* Designed the architecture for faster detection of infrastructure issues
+
+**Repository:** `ADD_PROJECT_REPOSITORY_URL`
+
+---
+
+## 3. AWS Load Balancer & Auto Scaling
+
+Hands-on AWS infrastructure project demonstrating traffic distribution, automatic scaling, and fault tolerance.
+
+**Tech Stack**
+
+`AWS EC2` · `Application Load Balancer` · `Auto Scaling Group` · `Target Groups`
+
+**Key Highlights**
+
+* Configured an **Application Load Balancer**
+* Created target groups to distribute traffic across multiple EC2 instances
+* Configured an **Auto Scaling Group**
+* Implemented scaling policies based on CPU utilization
+* Validated high availability by simulating instance failures
+* Observed automatic instance recovery through Auto Scaling
+
+**Repository:** `ADD_PROJECT_REPOSITORY_URL`
+
+---
+
+## 4. Automated CI/CD Pipeline for Two-Tier Web Application
+
+A containerized Flask-MySQL application with automated CI/CD deployment using Jenkins and GitHub Webhooks.
+
+**Tech Stack**
+
+`AWS EC2` · `Jenkins` · `Docker` · `Docker Compose` · `Flask` · `MySQL` · `GitHub`
+
+**Key Highlights**
+
+* Developed and containerized a **Flask + MySQL two-tier application**
+* Used **Docker Compose** to manage application and database containers
+* Implemented a Jenkins CI/CD pipeline
+* Configured **GitHub Webhooks** to trigger automated builds
+* Automated Docker image builds and deployment
+* Deployed the application on **AWS EC2**
+* Reduced manual deployment steps through automated containerized delivery
+
+**Repository:** `ADD_PROJECT_REPOSITORY_URL`
+
+---
+
+# 🔥 DevOps Workflow
+
+```text
+Developer
+    │
+    ▼
+  GitHub
+    │
+    ▼
+ CI/CD Pipeline
+    │
+    ├── Jenkins
+    ├── GitHub Actions
+    └── GitLab CI/CD
+    │
+    ▼
+ Docker / Containerization
+    │
+    ▼
+ AWS Infrastructure
+    │
+    ├── EC2
+    ├── ECR
+    ├── EKS
+    ├── S3
+    └── CloudFront
+    │
+    ▼
+Monitoring & Observability
+    │
+    ├── CloudWatch
+    ├── Prometheus
+    └── Grafana
+```
+
+---
+
+# 🏆 Certifications & Training
+
+* 🎯 **AWS Certified Solutions Architect – Associate** — In Preparation
+* ☁️ **Advanced Certification in Cloud Computing and DevOps** — Ethans Tech LLP, Pune
+* ☁️ **AWS Solutions Architect Associate Training** — Udemy
+* 🐍 **Python Mastery for Beginners** — Udemy
+
+---
+
+# 🎓 Education
+
+**B.Tech — Computer Engineering**
+
+Dr. Babasaheb Ambedkar Technological University, Lonere, Maharashtra
+
+**Aug 2022 – Jun 2026**
+
+Grade: **7.0 / 10**
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshsury1shi\&show_icons=true\&hide_border=true\&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsury1shi\&layout=compact\&hide_border=true)
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/maheshsury1shi/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/maheshsury1shi)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:maheshsury1shi@gmail.com)
+
+</div>
+
+---
+
+## 💬 Let's Connect
+
+I'm interested in opportunities involving:
+
+**AWS Cloud · DevOps · Linux Administration · CI/CD · Docker · Kubernetes · Infrastructure Automation · Cloud Operations**
+
+Feel free to explore my repositories and connect with me.
+
+---
+
+<p align="center">
+  <b>Building practical Cloud & DevOps solutions, one project at a time.</b>
+</p>
+
